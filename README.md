@@ -1,5 +1,5 @@
 
-#PYMC3 for economics and finance
+# PYMC3 for economics and finance
 
 In this repository, you will find all the materials I used during the workshop. You will also stumble upon some examples on topics I just barely covered in the slides.
 
